@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Delivery Assurance - CIS">279eb21c4f556f406a9704818110c7c6</menu>
+        <name>Delivery Assurance - CIS</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_wipli_da</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_wipli_da</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>satish</sys_created_by>
+        <sys_created_on>2018-10-18 06:25:58</sys_created_on>
+        <sys_id>e79ef2584f556f406a9704818110c70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>satish</sys_updated_by>
+        <sys_updated_on>2018-10-18 06:25:58</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_wipli_da.user" name="x_wipli_da.user">f79eb21c4f556f406a9704818110c7c9</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
